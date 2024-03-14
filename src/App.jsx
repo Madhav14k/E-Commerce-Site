@@ -4,10 +4,10 @@ import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import About from './pages/About';
 import Profile from './pages/Profile';
-import Header from './components/Header';
-import PrivateRoute from './components/PrivateRoute';
+import Header from './assets/components/Header';
+import PrivateRoute from './assets/components/PrivateRoute';
 import CreateListing from './pages/CreateListing';
-import UpdateListing from './pages/UpdateListing';
+import UpdateListing from './pages/UpdatedListing';
 import Listing from './pages/Listing';
 import Search from './pages/Search';
 
